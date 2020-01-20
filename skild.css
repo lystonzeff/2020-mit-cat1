@@ -1,0 +1,46 @@
+.a{
+
+}
+.fom{
+    padding-left: 40vh;
+
+}
+.b{
+display: flex;
+    padding-left:20vh;
+    background-color: yellow;
+}
+.aa{
+    width: 20%;
+}
+.bb{
+    width: 60%;
+    background-color: gainsboro;
+    height: 78vh;
+}
+.cc{
+    width: 20%;
+}
+.z{
+    display: flex;
+}
+.x{
+    width: 100%;
+
+}
+.ss{
+    height: 30vh;
+    display: flex;
+    padding-left: 40vh;
+    width: 100%;
+    background-color: #e5e93d;
+}
+  .de{
+      height: 7vh;
+      width: 110%;
+      background-color: goldenrod;
+      display: flex;
+  }
+  button{
+      background-color: yellow;
+  }
